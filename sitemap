@@ -15,3 +15,7 @@ border-radius:4px;-moz-border-radius:4px;
 .postname{font-weight:normal;background:#fff;margin-left: 35px;}
 .postname li{border-bottom: #ddd 1px dotted;margin-right:5px}
 </style>
+<div id="toc">
+<script src="https://cdn.jsdelivr.net/gh/JohnDawer/ref99@03893c990951d0ac353facbfd5014ad7e20b0bde/sitemap" type="text/javascript"></script>
+<script src="/feeds/posts/default?max-results=9999&amp;alt=json-in-script&amp;callback=loadtoc">
+</script></div>
